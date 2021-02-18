@@ -1,6 +1,6 @@
 ### Hi,I'm Ashen Dunusinghe👋
 
-## I'm Full Stack Developer 💻
+# I'm Full Stack Developer 💻
 <!--
 **Avdunusinghe/Avdunusinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
