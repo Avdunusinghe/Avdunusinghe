@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 - 📚 I'm  Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
 <!--- 🔭 I’m currently working on ...-->
+- 📚 I'm  Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
 - 🌱 I’m currently learning Java, Angular
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
