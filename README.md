@@ -2,7 +2,7 @@
 
 #### I'm Full Stack Developer 💻
 
-**Avdunusinghe/Avdunusinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Avdunusinghe/Avdunusinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 - 📚 I'm  Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
