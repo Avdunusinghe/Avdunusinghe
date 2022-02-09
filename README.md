@@ -7,7 +7,7 @@
 <!--Here are some ideas to get you started:-->
 - 📚 I'm  Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
 - 🔭 I’m currently working as Software Engineer Intern at Solis Tech(Pvt)Ltd
-- 📚 I am currently an undergraduate student in the Sri Lanka Institute of Information Technology(SLIIT)
+- 📚 I am currently an Software Engineering undergraduate student in the Sri Lanka Institute of Information Technology(SLIIT)
 - 🌱 I’m currently learning Nodejs
 - ✨ I'm interested in  Enterprise Application Development, Cloud Operations Engineering
 <!--- 👯 I’m looking to collaborate on ...
