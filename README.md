@@ -129,6 +129,13 @@
          width="40" 
          height="40" />
     </a>
+     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+      <img
+        src="https://github.com/Avdunusinghe/Avdunusinghe/blob/Avdunusinghe-patch-1/Images/IMG_dotNetCore.svg.png"
+        alt="mysql" 
+        width="40" 
+        height="40" /> 
+    </a>
     <a href="" target="_blank" rel="noreferrer"> 
        <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" 
@@ -202,6 +209,13 @@
         width="40" 
         height="40" /> 
     </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+      <img
+        src="https://github.com/Avdunusinghe/Avdunusinghe/blob/Avdunusinghe-patch-1/Images/IMG_VSCODE.png"
+        alt="mysql" 
+        width="40" 
+        height="40" /> 
+    </a>
      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
@@ -223,6 +237,21 @@
         width="40" 
         height="40" /> 
     </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+      <img
+        src="https://github.com/Avdunusinghe/Avdunusinghe/blob/Avdunusinghe-patch-1/Images/IMG_azure.png"
+        alt="mysql" 
+        width="40" 
+        height="40" /> 
+    </a>
+     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+      <img
+        src="https://github.com/Avdunusinghe/Avdunusinghe/blob/Avdunusinghe-patch-1/Images/IMG_firebase.png"
+        alt="mysql" 
+        width="40" 
+        height="40" /> 
+    </a>
+   
 </p>
 <br>
 
