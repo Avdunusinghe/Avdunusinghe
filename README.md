@@ -15,7 +15,7 @@
 - 📚 I'm  Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
 - 🔭 I’m currently working as Software Engineer Intern at Solis Tech(Pvt)Ltd
 - 📚 I am currently an Software Engineering undergraduate student in the Sri Lanka Institute of Information Technology(SLIIT)
-- 🌱 I’m currently learning Nodejs
+- 🌱 I’m currently learning .NetCore
 - ✨ I'm interested in  Enterprise Application Development, Cloud Operations Engineering
 - 📫 How to reach me **avdunusinghe@gmail.com**
 
