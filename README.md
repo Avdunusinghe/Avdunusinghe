@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashen Dunusinghe</h1>
-<h3 align="center"> I'm Full Stack Developer 💻.</h3>
+<h3 align="center"> I'm .Net Full Stack Developer 💻.</h3>
 
 <br>
 
@@ -13,7 +13,7 @@
 
 
 - 📚 I'm  Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
-- 🔭 I’m currently working as Software Engineer Intern at Solis Tech(Pvt)Ltd
+- 🔭 I’m currently working as Associate Trainee Software Engineer at Solis Tech(Pvt)Ltd
 - 📚 I am currently an Software Engineering undergraduate student in the Sri Lanka Institute of Information Technology(SLIIT)
 - 🌱 I’m currently learning .NetCore
 - ✨ I'm interested in  Enterprise Application Development, Cloud Operations Engineering
