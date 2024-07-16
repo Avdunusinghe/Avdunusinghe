@@ -12,8 +12,8 @@
 <p><img align="right" src="https://github.com/Avdunusinghe/Avdunusinghe/blob/main/GITHUB_ANIMATION.gif" alt="Avdunusinghe" /></p>
 
 
-- 🔭 I’m currently working as Software Engineer at Solis Tech(Pvt)Ltd
-- 📚 I am currently a Software Engineering undergraduate student at the Sri Lanka Institute of Information Technology(SLIIT)
+- 🔭 I’m currently working as a Software Engineer at Solis Tech(Pvt)Ltd
+- 📚 I am currently a Software Engineering undergraduated student at the Sri Lanka Institute of Information Technology(SLIIT)
 - 🌱 I’m currently learning.NetCore
 - ✨ I'm interested in  Enterprise Application Development, Cloud Operations Engineering
 - 📫 How to reach me **avdunusinghe@gmail.com**
